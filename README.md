@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='C:\Users\xlz10\Desktop\codepath\Web102\Unit-Projects\Project4_Veni_Vici!\Veni_Vivi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/xlz1047/Project4_Veni_Vici-/blob/main/Veni_Vivi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 
